@@ -1,0 +1,4 @@
+sonar.projectKey=com.ipicicd.CICDIPI
+sonar.host.url=http://sonarqube:9000
+sonar.token=sqa_3a892988c12367eb1b52a482b40afacccf4e88b2
+sonar.java.binaries=build/classes/java/main
